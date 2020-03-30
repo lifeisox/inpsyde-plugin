@@ -1,0 +1,18 @@
+{
+    "name": "life4one/inpsyde",
+    "description": "The Plugin for Inpsyde",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/lifeisox/inpsyde-plugin.git",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Kim",
+            "email": "byseonkim@gmail.com",
+            "homepage": "https://mygifthub.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    }
+}
