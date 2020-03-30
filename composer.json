@@ -11,8 +11,5 @@
             "email": "byseonkim@gmail.com",
             "homepage": "https://mygifthub.net"
         }
-    ],
-    "require": {
-        "php": ">=5.6"
-    }
+    ]
 }
